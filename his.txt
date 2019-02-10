@@ -1,0 +1,40 @@
+    1  git init
+    2  git status
+    3  git add readme.txt
+    4  git add readme.txt
+    5  git remote add origin git@github.com:sumitsaini341/new.git
+    6  clear
+    7  git add origin git@github.com:sumitsaini341/new.git
+    8  git remote add origin
+    9  git remote add origin git@github.com:sumitsaini341/new.git
+   10  git pull origin master
+   11  git config --global user.name "sumit"
+   12  git config --global user.name "sumitsaini341"
+   13  git config --global user.email sumitsaini341@gmail.com
+   14  git remote add origin git@github.com:sumitsaini341/new.git
+   15  git clone git@github.com:sumitsaini341/git.git
+   16  ls
+   17  git clone https://github.com/sumitsaini341/git.git
+   18  ls
+   19  cd git
+   20  git add new.py
+   21  git status
+   22  git commit -m "commit2" new.py
+   23  git push -u origin master
+   24  git log --pretty=format:'%h : %s' --graph > log.log
+   25  git log --pretty=format:'%h : %s' --graph > log.txt
+   26  git add log.txt
+   27  git add log.log
+   28  ls
+   29  git status
+   30  git commit -m "commit2" log.log
+   31  git push -u origin master
+   32  sudo apt-get update
+   33  logger
+   34  script com.tct
+   35  git log
+   36    git --no-pager log --graph --pretty=oneline --abbrev-commit --decorate --all com.txt
+   37  history
+   38  git add history.txt
+   39  git create history.txt
+   40  history > his.txt
